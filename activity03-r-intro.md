@@ -1,6 +1,6 @@
 Activity 3
 ================
-Bradford
+Bradford Dykes
 
 Today you will be creating and manipulating vectors, lists, and data
 frames to uncover a top secret message.
